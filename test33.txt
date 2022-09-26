@@ -2,3 +2,4 @@ some text created on the remote repo edited
 saving the proper changes
 added changes
 changes on the newbranch again
+current changes
