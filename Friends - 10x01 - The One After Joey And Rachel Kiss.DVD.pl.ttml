@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.0s" id="p0" end="4.2s">www.napiprojekt.pl - nowa jakoœæ napisów.<br />Napisy zosta³y specjalnie dopasowane do Twojej wersji filmu.</p>
+      <p begin="0.0s" id="p1" end="3.1s">movie info: XVID  576x432 25.0fps 231.8 MB<br />/SubEdit b.4000 (http://subedit.prv.pl)/</p>
+      <p begin="5.8s" id="p2" end="9.3s">To jak za³atwi³eœ Mike'a w ping-ponga<br />strasznie mnie podnieci³o.</p>
+      <p begin="11.0s" id="p3" end="13.6s">Chcesz?</p>
+      <p begin="13.6s" id="p4" end="16.4s">Wiesz... Chcia³bym, <br />ale jestem trochê zmêczony</p>
+      <p begin="16.4s" id="p5" end="19.9s">- Za³o¿ê sobie poszewkê na g³owê.<br />- Zgoda!</p>
+      <p begin="20.4s" id="p6" end="22.5s">- Hej!<br />- Co tam?</p>
+      <p begin="22.5s" id="p7" end="26.0s"> Mike bierze prysznic...<br />Dodam, ¿e prawo tego nie zabrania.</p>
+      <p begin="27.3s" id="p8" end="30.7s">Potem skoczymy po coœ do jedzenia,<br />wiêc jak...</p>
+      <p begin="30.7s" id="p9" end="31.7s">/Nareszcie...</p>
+      <p begin="31.9s" id="p10" end="33.2s">Czy to Ross?</p>
+      <p begin="33.2s" id="p11" end="36.7s">Tak, wszystko s³ychaæ<br />przez te durne œciany!</p>
+      <p begin="36.7s" id="p12" end="38.4s">Chyba nie jest sam.</p>
+      <p begin="38.4s" id="p13" end="41.0s">Mo¿e byæ sam.<br />Dziœ rano robi³ pompki, a potem...</p>
+      <p begin="41.0s" id="p14" end="43.2s">...gada³ ze swoim tricepsem.</p>
+      <p begin="43.2s" id="p15" end="46.2s">Chyba Phoebe ma racje.</p>
+      <p begin="46.2s" id="p16" end="49.7s">S³yszê kogoœ jeszcze.</p>
+      <p begin="53.6s" id="p17" end="55.1s">Doktorze Geller...</p>
+      <p begin="55.1s" id="p18" end="56.3s">Bo¿e! Jesteœ wspania³a.</p>
+      <p begin="56.3s" id="p19" end="59.8s">Nawet nie musia³em ciê prosiæ <br /> ¿ebyœ tak do mnie mówi³a.</p>
+      <p begin="60.9s" id="p20" end="62.9s">O Bo¿e...<br />To Charlie .</p>
+      <p begin="62.9s" id="p21" end="65.0s">Zdradza Joey'a z Ross'em .</p>
+      <p begin="65.0s" id="p22" end="68.5s">Co za upierdliwy, lafiryndowaty...<br />potwór.</p>
+      <p begin="71.5s" id="p23" end="73.2s">Nie jestem tego pewna.</p>
+      <p begin="73.2s" id="p24" end="75.3s">Masz racjê.<br />To nie nasza sprawa.</p>
+      <p begin="75.3s" id="p25" end="77.7s">Nie jestem pewna czy to<br />dobry sposób, ¿eby pods³uchiwaæ!</p>
+      <p begin="77.7s" id="p26" end="80.0s">Niech ktoœ da mi szklankê!</p>
+      <p begin="80.0s" id="p27" end="81.4s">Nie mam zamiaru tego robiæ.</p>
+      <p begin="81.4s" id="p28" end="84.2s">Nie bêdê pods³uchiwaæ<br /> moich przyjació³.</p>
+      <p begin="84.2s" id="p29" end="87.7s">/Kocham Barbados</p>
+      <p begin="93.1s" id="p30" end="95.1s">Nie mogê uwierzyæ, ¿e ciê ca³ujê...</p>
+      <p begin="95.1s" id="p31" end="97.8s">Ca³ujê Rachel!</p>
+      <p begin="97.8s" id="p32" end="101.4s">Wiem!<br />Bo to ja!</p>
+      <p begin="101.5s" id="p33" end="104.1s">Rachel i Joey.<br />To Rachel i Joey!</p>
+      <p begin="104.1s" id="p34" end="105.1s">Co?</p>
+      <p begin="105.1s" id="p35" end="108.7s">No chodŸcie tu.</p>
+      <p begin="112.3s" id="p36" end="115.8s">O mój Bo¿e!<br />Kocham te cienkie œciany!</p>
+      <p begin="124.2s" id="p37" end="127.6s">Dziêki.</p>
+      <p begin="127.6s" id="p38" end="132.0s">PRZYJACIELE</p>
+      <p begin="132.9s" id="p39" end="137.6s">t³umaczenie: króliczku</p>
+      <p begin="137.7s" id="p40" end="142.6s"><<KinoMania SubGroup>></p>
+      <p begin="142.6s" id="p41" end="146.9s">http://subgroup.kinomania.org</p>
+      <p begin="168.5s" id="p42" end="172.6s">TEN PO POCA£UNKU JOE'A I RACHEL</p>
+      <p begin="176.7s" id="p43" end="179.5s">Wczeœniej mówi³eœ, ¿e miêdzy nami<br />nic siê nie zdarzy...</p>
+      <p begin="179.5s" id="p44" end="181.5s">Co siê zmieni³o?</p>
+      <p begin="181.5s" id="p45" end="183.9s">Mówi³em tak z powodu Ross'a.</p>
+      <p begin="183.9s" id="p46" end="185.3s">Potem widzia³em jak<br />ca³uje siê z Charlie.</p>
+      <p begin="185.3s" id="p47" end="187.2s">Co?</p>
+      <p begin="187.2s" id="p48" end="189.9s">Ross i Charlie?</p>
+      <p begin="189.9s" id="p49" end="193.4s">Ta to ma sposoby<br /> by dostaæ siê do grupy.</p>
+      <p begin="196.0s" id="p50" end="199.5s">A zreszt¹...<br />Ja te¿ œwiêta nie jestem.</p>
+      <p begin="200.6s" id="p51" end="203.0s">Nie mogê uwierzyæ.<br />Rachel i Joey?</p>
+      <p begin="203.0s" id="p52" end="206.5s">A co z tymi dinozaurami<br />z drugiego pokoju?</p>
+      <p begin="206.5s" id="p53" end="209.2s">Nikt nie pilnuje tamtej œciany.</p>
+      <p begin="209.2s" id="p54" end="212.4s">Moja!</p>
+      <p begin="212.4s" id="p55" end="213.7s">S³yszysz coœ?</p>
+      <p begin="213.7s" id="p56" end="214.9s">Chyba zas³aniaj¹ zas³ony.</p>
+      <p begin="214.9s" id="p57" end="217.8s">Tutaj zrzucaj¹ buty.</p>
+      <p begin="217.8s" id="p58" end="221.3s">Sprê¿yny w ³ó¿ku.<br />Na stówê!</p>
+      <p begin="221.5s" id="p59" end="223.2s">Zdajesz sobie sprawê,<br />¿e to twój brat?</p>
+      <p begin="223.2s" id="p60" end="226.7s">Nie, dopóki tego nie powiedzia³eœ.<br />Niech ktoœ mnie zmieni!</p>
+      <p begin="228.8s" id="p61" end="231.1s">Momencik.<br />Ross i Charlie.</p>
+      <p begin="231.1s" id="p62" end="232.6s">Joey i Rachel.</p>
+      <p begin="232.6s" id="p63" end="233.8s">Phoebe i Mike.</p>
+      <p begin="233.8s" id="p64" end="236.3s">Tylko my wracamy z Barbados<br />z tym samym partnerem.</p>
+      <p begin="236.3s" id="p65" end="237.8s">Niezupe³nie.<br />Przyjecha³em z Monika...</p>
+      <p begin="237.8s" id="p66" end="241.3s">...a wracam<br />z Weird Al'em.</p>
+      <p begin="241.4s" id="p67" end="243.8s">Dosyæ ¿artów na temat w³osów!</p>
+      <p begin="243.8s" id="p68" end="245.9s">Jutro przed wyjazdem<br />idê do fryzjera.</p>
+      <p begin="245.9s" id="p69" end="249.4s">Ok, pluszaku...</p>
+      <p begin="250.0s" id="p70" end="251.5s">Musicie to us³yszeæ.</p>
+      <p begin="251.5s" id="p71" end="255.0s">To œwietnie.<br />To jak darmowe porno.</p>
+      <p begin="261.8s" id="p72" end="263.4s">Wszystko w porz¹dku?</p>
+      <p begin="263.4s" id="p73" end="265.9s">Tak, ale chyba nie mogê<br />tego zrobiæ.</p>
+      <p begin="265.9s" id="p74" end="269.0s">Z powodu tej narzuty?<br />Te¿ widzia³am ten program...</p>
+      <p begin="269.0s" id="p75" end="270.7s">Badaj¹ to podczerwieni¹ i w ogóle...<br />mog³abym...</p>
+      <p begin="270.7s" id="p76" end="274.0s">Nie. Nie!</p>
+      <p begin="275.0s" id="p77" end="276.9s">Muszê porozmawiaæ z Joey'em</p>
+      <p begin="276.9s" id="p78" end="279.1s">Przecie¿ w³aœnie zerwaliœcie.</p>
+      <p begin="279.1s" id="p79" end="281.2s">Zanim coœ wiêcej siê wydarzy<br />miêdzy nami...</p>
+      <p begin="281.2s" id="p80" end="284.0s">Muszê us³yszeæ, ¿e on nie ma<br />nic przeciwko temu.</p>
+      <p begin="284.0s" id="p81" end="286.0s">Rozumiem ciê.</p>
+      <p begin="286.0s" id="p82" end="289.5s">Idê go poszukaæ.</p>
+      <p begin="291.8s" id="p83" end="295.3s">Za chwilkê.<br />Wiesz, muszê tylko...</p>
+      <p begin="298.4s" id="p84" end="299.4s">Babcia, babcia...</p>
+      <p begin="299.4s" id="p85" end="303.2s">Babcia.</p>
+      <p begin="308.4s" id="p86" end="311.9s">Dobra.<br />To na razie.</p>
+      <p begin="312.3s" id="p87" end="314.7s">To drzwi. <br />Poszed³.</p>
+      <p begin="314.7s" id="p88" end="317.9s">A ona w³¹cza TV.</p>
+      <p begin="317.9s" id="p89" end="321.4s">I ogl¹da...<br />/Miss Agent</p>
+      <p begin="323.2s" id="p90" end="326.7s">Kochanie, jeœli wiesz to przez œcianê.<br />To wiesz to za dobrze!</p>
+      <p begin="335.2s" id="p91" end="338.7s">Hej!<br />Co robicie?</p>
+      <p begin="340.8s" id="p92" end="343.7s">Jesteœmy smutni,<br />¿e musimy wyjechaæ, wiêc...</p>
+      <p begin="343.7s" id="p93" end="345.4s">...¿egnamy siê z hotelem.</p>
+      <p begin="345.4s" id="p94" end="348.9s">Kocham ciê,<br /> Paradise Hotel...</p>
+      <p begin="348.9s" id="p95" end="352.4s">Pole golfowe... Kurort.</p>
+      <p begin="354.6s" id="p96" end="358.1s">Wspaniale siê bawiliœmy.<br />Dziêkujê!</p>
+      <p begin="360.8s" id="p97" end="364.3s">Pa.</p>
+      <p begin="365.6s" id="p98" end="367.7s">Widzieliœcie gdzieœ Joey'a?</p>
+      <p begin="367.7s" id="p99" end="370.8s">Pewnie jest w pokoju ze swoj¹<br />obecn¹ dziewczyn¹ Charlie.</p>
+      <p begin="370.8s" id="p100" end="374.3s">Tyle wiemy.</p>
+      <p begin="376.5s" id="p101" end="379.1s">Jeœli go zobaczycie, powiedzcie,<br />¿e go szukam.</p>
+      <p begin="379.1s" id="p102" end="382.6s">- Jasne.<br />- Dziêki.</p>
+      <p begin="384.7s" id="p103" end="388.2s">Dziêkujê.</p>
+      <p begin="391.5s" id="p104" end="395.0s">Druga œciana!<br />Do œciany!</p>
+      <p begin="397.8s" id="p105" end="399.7s">Rach?<br />Jesteœ tam?</p>
+      <p begin="399.7s" id="p106" end="401.4s">Mój Bo¿e, to Ross!<br />Co robimy?</p>
+      <p begin="401.4s" id="p107" end="403.4s">Spokojnie.<br /> Spokojnie.</p>
+      <p begin="403.4s" id="p108" end="405.9s">On wie tylko to, ¿e siê kumplujemy.<br />Prawda?</p>
+      <p begin="405.9s" id="p109" end="409.4s">Spróbuj byæ nonszalancki.</p>
+      <p begin="413.8s" id="p110" end="415.5s">Tak nie wygl¹da nonszalancja!</p>
+      <p begin="415.5s" id="p111" end="419.0s">Nie mam pojêcia, co to jest!</p>
+      <p begin="419.0s" id="p112" end="421.1s">Schowaj siê!</p>
+      <p begin="421.1s" id="p113" end="423.0s">- Rach?<br />- Idê!</p>
+      <p begin="423.0s" id="p114" end="426.5s">W³aŸ pod ³ó¿ko!</p>
+      <p begin="428.6s" id="p115" end="431.7s">Nie wciœniesz siê tam.</p>
+      <p begin="431.7s" id="p116" end="433.8s">Wszystko w porz¹dku?</p>
+      <p begin="433.8s" id="p117" end="437.4s">Taaa!</p>
+      <p begin="444.2s" id="p118" end="446.5s">Wiesz gdzie jest Joey?</p>
+      <p begin="446.5s" id="p119" end="450.0s">Na prawdê nie wiem!</p>
+      <p begin="451.6s" id="p120" end="452.7s">Czy mo¿emy pogadaæ?</p>
+      <p begin="452.7s" id="p121" end="456.2s">Jasne!<br />Pewnie!</p>
+      <p begin="457.0s" id="p122" end="458.5s">Nie mogê uwierzyæ...</p>
+      <p begin="458.5s" id="p123" end="462.0s">Czy wy..?<br />Cicho... Tu jest pokój do s³uchania!</p>
+      <p begin="468.9s" id="p124" end="471.5s">A potem powiedzia³a mi,<br />¿e zerwali ze sob¹.</p>
+      <p begin="471.5s" id="p125" end="473.8s">I to po czêœci z powodu,<br />uczucia do mnie...</p>
+      <p begin="473.8s" id="p126" end="475.8s">Taa..</p>
+      <p begin="475.8s" id="p127" end="478.9s">Wiesz, ¿e chcia³em siê z ni¹ umówiæ<br />odk¹d j¹ pozna³em.</p>
+      <p begin="478.9s" id="p128" end="482.4s">Tak, wiem.<br />Musia³o ci byæ naprawdê ciê¿ko.</p>
+      <p begin="482.8s" id="p129" end="487.6s">I tak, od s³owa do s³owa<br />zanim siê zorientowa³em, ca³owaliœmy siê.</p>
+      <p begin="488.8s" id="p130" end="490.9s">Myœlisz, ¿e Joey bêdzie wœciek³y?</p>
+      <p begin="490.9s" id="p131" end="494.5s">Ciê¿ko powiedzieæ Ross.<br />Ciê¿ko powiedzieæ.</p>
+      <p begin="495.6s" id="p132" end="497.8s">Muszê go znaleŸæ.<br />Musi gdzieœ tu byæ!</p>
+      <p begin="497.8s" id="p133" end="501.4s">No co ty?</p>
+      <p begin="506.4s" id="p134" end="507.8s">Poszed³?</p>
+      <p begin="507.8s" id="p135" end="511.3s">Jak ty to robisz?!</p>
+      <p begin="512.8s" id="p136" end="515.2s">Co?<br />Hej!</p>
+      <p begin="515.2s" id="p137" end="517.6s">Co to ma byæ?<br />Pods³uchiwaliœcie przez ca³y czas?</p>
+      <p begin="517.6s" id="p138" end="520.6s">Jasne!!</p>
+      <p begin="520.6s" id="p139" end="522.4s">Co to ma byæ?</p>
+      <p begin="522.4s" id="p140" end="524.8s">Co to ma byæ?<br />Niech pomyœle...</p>
+      <p begin="524.8s" id="p141" end="527.4s">Ca³owaliœmy siê przez 10 minut a teraz<br />gadamy o tym z przyjació³mi.</p>
+      <p begin="527.4s" id="p142" end="530.9s">Wiêc to chyba jest<br />6 klasa podstawówki!</p>
+      <p begin="530.9s" id="p143" end="534.5s">Czy pomyœleliœcie o komplikacjach?<br />Co z Rossem?</p>
+      <p begin="534.9s" id="p144" end="536.6s">Jest teraz z Charlie.</p>
+      <p begin="536.6s" id="p145" end="539.7s">Tak, ale zanim do czegoœ dojdzie<br />chce pogadaæ z tob¹.</p>
+      <p begin="539.7s" id="p146" end="543.7s">Skoro to twój przyjaciel<br />chyba zas³uguje na to samo od ciebie?</p>
+      <p begin="547.5s" id="p147" end="551.1s">Jesteœ jak wrzód na ty³ku, Geller.</p>
+      <p begin="552.2s" id="p148" end="555.7s">Doceniamy wasze rady,<br />ale to jest sprawa moja i Joey'a.</p>
+      <p begin="555.8s" id="p149" end="557.3s">Jakoœ sobie poradzimy.</p>
+      <p begin="557.3s" id="p150" end="559.4s">Dobra idziemy sobie, <br />ale zróbcie coœ dla nas...</p>
+      <p begin="559.4s" id="p151" end="562.1s">- Dla ludzi, którym na was zale¿y<br />- Jasne.</p>
+      <p begin="562.1s" id="p152" end="566.8s">- Mówcie wyraŸnie.<br />- Wynocha!</p>
+      <p begin="571.3s" id="p153" end="574.2s">Maj¹ racjê?</p>
+      <p begin="574.2s" id="p154" end="577.7s">Chyba...<br />Mo¿e powinniœmy siê powstrzymaæ.</p>
+      <p begin="578.8s" id="p155" end="581.3s">Dopóki nie pogadamy z Rossem.</p>
+      <p begin="581.3s" id="p156" end="583.3s">Jasne. <br />Tak!</p>
+      <p begin="583.3s" id="p157" end="586.0s">Poczekamy.<br />Nie musimy nic robiæ.</p>
+      <p begin="586.0s" id="p158" end="588.8s">Tak bêdzie najlepiej.</p>
+      <p begin="588.8s" id="p159" end="592.2s">No to...<br />bêdê spada³.</p>
+      <p begin="592.2s" id="p160" end="595.7s">- Chocia¿...<br />- Uwielbiam 'chocia¿'.</p>
+      <p begin="596.1s" id="p161" end="600.4s">Wiesz...<br />Ross i ja nie jesteœmy par¹ od 6 lat.</p>
+      <p begin="602.8s" id="p162" end="606.3s">6 lat?</p>
+      <p begin="606.3s" id="p163" end="609.8s">To tyle, co podstawówka.</p>
+      <p begin="613.7s" id="p164" end="617.2s">- Do tego jest teraz z Charlie.<br />- Dok³adnie!</p>
+      <p begin="618.6s" id="p165" end="622.1s">Nie myœli teraz o tobie.<br />Nie!</p>
+      <p begin="622.1s" id="p166" end="625.2s">Ja o tobie myœlê.</p>
+      <p begin="625.2s" id="p167" end="628.5s">Tak!</p>
+      <p begin="628.5s" id="p168" end="630.9s">Zapomnijmy o Rossie.</p>
+      <p begin="630.9s" id="p169" end="634.4s">Ju¿ zapomnia³am.</p>
+      <p begin="634.8s" id="p170" end="636.1s">Coœ nie tak?</p>
+      <p begin="636.1s" id="p171" end="637.2s">Nic!</p>
+      <p begin="637.2s" id="p172" end="640.6s">Powa¿nie.<br />Coœ siê sta³o?</p>
+      <p begin="640.6s" id="p173" end="641.9s">Nic, serio.</p>
+      <p begin="641.9s" id="p174" end="645.4s">ChodŸ.</p>
+      <p begin="645.6s" id="p175" end="648.7s">Co jest?</p>
+      <p begin="648.7s" id="p176" end="652.2s">Przepraszam...<br />Nie mogê wywaliæ Rossa z g³owy.</p>
+      <p begin="656.1s" id="p177" end="659.6s">Mo¿e ja pomogê.</p>
+      <p begin="663.9s" id="p178" end="667.4s">Twoje usta s¹ takie delikatne. <br />Chcê jeszcze!</p>
+      <p begin="669.6s" id="p179" end="673.1s">Musimy pogadaæ z Rossem.</p>
+      <p begin="678.8s" id="p180" end="680.1s">- Czeœæ.<br />- Czeœæ!</p>
+      <p begin="680.0s" id="p181" end="681.1s">Gotowi?</p>
+      <p begin="681.1s" id="p182" end="684.2s">Prawie. Monika jest u fryzjera.<br />A ja koñczê pakowanie.</p>
+      <p begin="683.5s" id="p183" end="687.0s">Stary!<br />Nie zabierasz biblii?</p>
+      <p begin="687.8s" id="p184" end="690.8s">Tego siê nie robi.<br />Poza tym, to Nowy Testament.</p>
+      <p begin="690.8s" id="p185" end="692.7s">Na co ci on?</p>
+      <p begin="692.7s" id="p186" end="696.2s">Bêdê siê uczy³ o Jezusie.</p>
+      <p begin="697.5s" id="p187" end="700.6s">Rozmawia³eœ ju¿ z Joey'em?</p>
+      <p begin="700.6s" id="p188" end="702.5s">Nie, nie mog³em go znaleŸæ.</p>
+      <p begin="702.5s" id="p189" end="705.2s">Pogadam z nim w samolocie</p>
+      <p begin="705.2s" id="p190" end="707.1s">Dobry pomys³.</p>
+      <p begin="707.1s" id="p191" end="709.3s">Doktorze Geller.</p>
+      <p begin="709.3s" id="p192" end="711.7s">Przestañ.</p>
+      <p begin="711.7s" id="p193" end="714.8s">Do - kto - rat</p>
+      <p begin="714.8s" id="p194" end="718.3s">Jesteœ sproœna.</p>
+      <p begin="718.3s" id="p195" end="719.8s">Widzieliœcie Monikê?</p>
+      <p begin="719.8s" id="p196" end="721.3s">Chyba posz³a do fryzjera?</p>
+      <p begin="721.3s" id="p197" end="724.8s">- Tak, posz³a...<br />- Patrzcie na to!</p>
+      <p begin="728.5s" id="p198" end="731.0s">I œwiat znów jest piêkny!</p>
+      <p begin="731.0s" id="p199" end="734.5s">CHANDLER !</p>
+      <p begin="738.3s" id="p200" end="740.5s">I co s¹dzisz?</p>
+      <p begin="740.5s" id="p201" end="744.0s">S¹dzê...<br /> ¿e widzê twoj¹ czaszkê</p>
+      <p begin="744.4s" id="p202" end="747.5s">Czy¿ nie s¹ cudowne?</p>
+      <p begin="747.5s" id="p203" end="750.5s">Taa..<br />Masz muszelki na w³osach!</p>
+      <p begin="750.5s" id="p204" end="754.0s">To jest coœ.<br />O to biega dziewczyno!</p>
+      <p begin="755.2s" id="p205" end="756.9s">Nigdy tak nie mówi³aœ? Co?</p>
+      <p begin="756.9s" id="p206" end="758.9s">Ani razu.</p>
+      <p begin="758.9s" id="p207" end="762.4s">Pos³uchajcie tego!</p>
+      <p begin="765.6s" id="p208" end="769.1s">Kto by pomyœla³.<br />Uczta dla oczu i... uszu!</p>
+      <p begin="784.6s" id="p209" end="787.5s">To dziwne, ¿e siedzê obok Charlie<br />po tym jak zerwaliœmy.</p>
+      <p begin="787.5s" id="p210" end="791.5s">Dziwne jest to, ¿e linie lotnicze<br />maj¹ gdzieœ twoje ¿ycie osobiste.</p>
+      <p begin="792.4s" id="p211" end="795.3s">Mo¿e ktoœ chce siê zamieniæ?</p>
+      <p begin="795.3s" id="p212" end="798.8s">- Stary, spêdzi³em z ni¹ ca³¹ konferencje...<br />- Rozumiem.</p>
+      <p begin="799.3s" id="p213" end="801.8s">Ale to zrobiê!</p>
+      <p begin="801.8s" id="p214" end="805.3s">Ja te¿ siê chcê zamieniæ.<br />Muszê siedzieæ ko³o Alana Iverson'a.</p>
+      <p begin="811.4s" id="p215" end="813.3s">Jak ju¿ bêdziemy w powietrzu.</p>
+      <p begin="813.3s" id="p216" end="814.9s">I zgaœnie œwiate³ko <br /> ZAPNIJ PASY...</p>
+      <p begin="814.9s" id="p217" end="818.4s">Masz pozwolenie na wejœcie<br /> w moj¹ przestrzeñ...</p>
+      <p begin="819.9s" id="p218" end="823.4s">Powinnaœ uwa¿aæ podczas sprawdzania...</p>
+      <p begin="821.7s" id="p219" end="824.8s">Pó³ki nad g³ow¹.<br />Gdy¿ zmiana pozycji...</p>
+      <p begin="825.5s" id="p220" end="827.3s">Kiepsko ci idzie.</p>
+      <p begin="831.0s" id="p221" end="833.0s">Nie musisz dziœ<br /> wracaæ do domu?</p>
+      <p begin="833.0s" id="p222" end="835.9s">Mogê do ciebie wpaœæ.<br />Dziœ sobota, tak?</p>
+      <p begin="836.1s" id="p223" end="838.4s">Co?</p>
+      <p begin="838.4s" id="p224" end="841.9s">- Nie dam rady dziœ!<br />- Czemu?</p>
+      <p begin="842.5s" id="p225" end="845.7s">Mam randkê!</p>
+      <p begin="845.7s" id="p226" end="849.2s">Randkê?<br />Z kim?</p>
+      <p begin="849.5s" id="p227" end="852.8s">Z... moj¹ dziewczyn¹.</p>
+      <p begin="852.8s" id="p228" end="856.3s">- Masz dziewczynê?<br />- Tak.</p>
+      <p begin="856.3s" id="p229" end="859.0s">Kiedy zerwaliœmy<br />zacz¹³em siê z kimœ spotykaæ.</p>
+      <p begin="859.0s" id="p230" end="861.0s">- Przez ile?<br />- Trzy miesi¹ce.</p>
+      <p begin="861.0s" id="p231" end="863.9s">Trzy miesi¹ce?!</p>
+      <p begin="863.9s" id="p232" end="865.5s">W porz¹dku.</p>
+      <p begin="865.5s" id="p233" end="868.3s">Mo¿e to nie moja sprawa,<br />ale d³ugo jeszcze...</p>
+      <p begin="868.3s" id="p234" end="871.6s">...bêdziesz siê z ni¹ spotyka³?</p>
+      <p begin="871.6s" id="p235" end="874.1s">Powiem jej dziœ, ¿e to koniec.<br />Obiecujê.</p>
+      <p begin="874.1s" id="p236" end="877.6s">Dobrze.<br />Zrób to.</p>
+      <p begin="877.6s" id="p237" end="881.4s">A jak wrócisz do domu, mo¿e bêdzie na<br />ciebie czeka³a specjalna przesy³ka.</p>
+      <p begin="882.9s" id="p238" end="886.4s">Wiêc mo¿e j¹ odbiorê...<br />Rozedrê...</p>
+      <p begin="888.3s" id="p239" end="890.1s">Rozszarpiê opakowanie...<br />Wiesz co?</p>
+      <p begin="890.1s" id="p240" end="893.6s">Bêdziemy uprawiaæ seks. <br />Daj ju¿ spokój.</p>
+      <p begin="899.2s" id="p241" end="902.7s">Idê porozmawiaæ z Joey'em.<br />To chyba dobry moment.</p>
+      <p begin="902.7s" id="p242" end="906.5s">Zawsze ma dobry humor, kiedy<br />stewardessa mówi 'bezc³owe'</p>
+      <p begin="906.9s" id="p243" end="910.5s">OK, powodzenia.</p>
+      <p begin="912.2s" id="p244" end="915.7s">Ross tu idzie.<br />To dobry moment ¿eby z nim pogadaæ.</p>
+      <p begin="916.5s" id="p245" end="919.7s">Chyba tak.<br />Nerwowy siê robiê.</p>
+      <p begin="919.7s" id="p246" end="923.6s">Myœl o tym, ¿e jak skoñczysz to<br />pewnie ju¿ bêd¹ podawaæ obiad.</p>
+      <p begin="926.6s" id="p247" end="929.1s">Ci¹gle zdenerwowany?</p>
+      <p begin="929.1s" id="p248" end="932.6s">Zamówiê sobie lasagne.</p>
+      <p begin="932.6s" id="p249" end="935.9s">Czeœæ Rach.<br />Móg³bym tu na chwilê usi¹œæ?</p>
+      <p begin="935.9s" id="p250" end="939.4s">Jasne! Siadaj.</p>
+      <p begin="949.2s" id="p251" end="952.8s">Musimy pogadaæ o Charlie.</p>
+      <p begin="953.2s" id="p252" end="955.0s">Ostatniej nocy,<br />po tym jak zerwaliœcie...</p>
+      <p begin="955.4s" id="p253" end="958.3s">Przy okazji,<br />przykro mi z tego powodu.</p>
+      <p begin="961.9s" id="p254" end="965.4s">Charlie i ja rozmawialiœmy i... có¿.</p>
+      <p begin="968.6s" id="p255" end="970.1s">Ca³owaliœcie siê!</p>
+      <p begin="970.1s" id="p256" end="973.6s">Co?</p>
+      <p begin="974.4s" id="p257" end="977.6s">Co?<br />Co ci przysz³o do g³owy?</p>
+      <p begin="977.6s" id="p258" end="981.1s">- Widzia³em was.<br />- Tak, ca³owaliœmy siê.</p>
+      <p begin="983.0s" id="p259" end="985.9s">Ale nic wiêcej siê nie wydarzy³o...</p>
+      <p begin="985.9s" id="p260" end="989.4s">- Ross, w porz¹dku.<br />- Co?</p>
+      <p begin="989.4s" id="p261" end="993.0s">Nie ma sprawy.<br />Ca³kowicie rozumiem.</p>
+      <p begin="994.5s" id="p262" end="998.0s">Ty bardziej do niej pasujesz,<br /> ni¿ ja kiedykolwiek.</p>
+      <p begin="1000.1s" id="p263" end="1002.3s">Chcê, ¿ebyœcie byli szczêœliwi.</p>
+      <p begin="1002.3s" id="p264" end="1005.8s">- Serio?<br />- Tak.</p>
+      <p begin="1008.1s" id="p265" end="1011.6s">- Teraz ja ma coœ...<br />- Zatka³o mnie.</p>
+      <p begin="1013.1s" id="p266" end="1016.7s">Fakt, ¿e ty przedk³adasz moje szczêœcie nad <br />ca³a resztê.</p>
+      <p begin="1017.7s" id="p267" end="1020.4s">Jesteœ niesamowitym przyjacielem.</p>
+      <p begin="1020.4s" id="p268" end="1023.6s">- S³uchaj, zanim...<br />- Nie! Mówiê powa¿nie!</p>
+      <p begin="1023.6s" id="p269" end="1027.1s">Jesteœ taki lojalny,<br /> bezinteresowny i hojny.</p>
+      <p begin="1030.4s" id="p270" end="1033.9s">Tak. To ca³y ja.</p>
+      <p begin="1034.0s" id="p271" end="1036.5s">Wiesz. Znam Chandlera d³u¿ej<br />i zawsze myœla³em o nim...</p>
+      <p begin="1036.5s" id="p272" end="1040.0s">jako o najlepszym przyjacielu<br />ale teraz...</p>
+      <p begin="1040.5s" id="p273" end="1043.4s">Muszê parê rzeczy przemyœleæ.</p>
+      <p begin="1043.4s" id="p274" end="1045.7s">Stary!</p>
+      <p begin="1045.7s" id="p275" end="1049.2s">Jeœli kiedykolwiek, cokolwiek móg³bym <br />zrobiæ dla ciebie...</p>
+      <p begin="1051.3s" id="p276" end="1054.8s">Nic nie mogê wymyœliæ.</p>
+      <p begin="1056.2s" id="p277" end="1059.7s">Dziêki.</p>
+      <p begin="1064.1s" id="p278" end="1067.4s">- Rozmawia³eœ z Joey'em?<br />- O tak...</p>
+      <p begin="1067.4s" id="p279" end="1070.4s">- Fajnie siê rozmawia³o.<br />- Œwietnie!</p>
+      <p begin="1070.4s" id="p280" end="1072.2s">Wszystko w porz¹dku?</p>
+      <p begin="1072.2s" id="p281" end="1075.7s">Jasne...<br />Jest niesamowitym facetem.</p>
+      <p begin="1077.1s" id="p282" end="1080.7s">- NajwyraŸniej, ja te¿ tak myœlê.<br />- Jestem tym tak podniecony.</p>
+      <p begin="1083.5s" id="p283" end="1085.6s">Powa¿nie?</p>
+      <p begin="1085.6s" id="p284" end="1089.0s">- Podniecony?<br />- ¯artujesz?</p>
+      <p begin="1089.0s" id="p285" end="1092.5s">Mia³em bardzo sproœne sny<br />na ten temat.</p>
+      <p begin="1095.4s" id="p286" end="1098.9s">Przepraszam...</p>
+      <p begin="1103.6s" id="p287" end="1106.1s">Nie powiedzia³eœ mu!</p>
+      <p begin="1106.1s" id="p288" end="1109.6s">Nie mog³em.<br />Mówi³ o mnie tyle mi³ych rzeczy.</p>
+      <p begin="1109.6s" id="p289" end="1111.9s">Nie chcia³em, ¿eby siê wœciek³ <br />i wycofa³ to wszystko.</p>
+      <p begin="1111.9s" id="p290" end="1114.9s">- Jestem lepszy ni¿ Chandler.<br />- O Bo¿e.</p>
+      <p begin="1114.9s" id="p291" end="1118.0s">Dobra, wiesz co? Niewa¿ne.<br />Jak wrócimy do domu to sama mu powiem.</p>
+      <p begin="1118.0s" id="p292" end="1121.5s">Dziêki.<br />Doceniam to.</p>
+      <p begin="1139.0s" id="p293" end="1142.1s">- Mieszkanie Mike'a<br />- Czeœæ tu Mike.</p>
+      <p begin="1141.8s" id="p294" end="1145.6s">- Szybko posz³o.<br />- Nie, jeszcze nie przysz³a...</p>
+      <p begin="1145.7s" id="p295" end="1149.0s">Wiesz co? Spadam st¹d.<br />Zerwê z ni¹ przez telefon.</p>
+      <p begin="1149.0s" id="p296" end="1152.5s">Nie mo¿esz!<br />Daj spokój! WeŸ siê w garœæ!</p>
+      <p begin="1154.8s" id="p297" end="1157.3s">Powiedz jej po prostu,<br />¿e do siebie wróciliœmy.</p>
+      <p begin="1157.3s" id="p298" end="1159.4s">Kobiety ceni¹ szczeroœæ.</p>
+      <p begin="1159.4s" id="p299" end="1162.9s">Tak jak delikatne klapsy,<br />od czasu do czasu.</p>
+      <p begin="1166.1s" id="p300" end="1169.6s">Jeszcze jedno, na stoliku mo¿e byæ<br />zdjêcie Skarbu.</p>
+      <p begin="1170.7s" id="p301" end="1173.1s">Ma na imiê Skarb?</p>
+      <p begin="1173.1s" id="p302" end="1176.6s">Jest czystej krwi <br /> czy dziko - ¿yj¹ca?</p>
+      <p begin="1176.7s" id="p303" end="1178.6s">Chcia³em ciê tylko uprzedziæ...</p>
+      <p begin="1179.0s" id="p304" end="1182.1s">Dobrze. <br />Wiesz, jeœli siê wkurzy...</p>
+      <p begin="1182.1s" id="p305" end="1186.0s">...mo¿esz j¹ podrapaæ po brzuchu.</p>
+      <p begin="1194.4s" id="p306" end="1197.9s">Czeœæ, jestem Skarb.<br />A ty kto?</p>
+      <p begin="1197.9s" id="p307" end="1200.5s">- Pheobe.<br />- Phoebe?</p>
+      <p begin="1200.5s" id="p308" end="1202.9s">By³a Mike'a?<br />Mi³oœæ jego ¿ycia?</p>
+      <p begin="1202.9s" id="p309" end="1206.4s">Ta Phoebe?</p>
+      <p begin="1205.3s" id="p310" end="1206.7s">Enchanté.</p>
+      <p begin="1210.4s" id="p311" end="1213.9s">Nie mogê siê doczekaæ <br /> a¿ ludzie w pracy to zobacz¹.</p>
+      <p begin="1215.9s" id="p312" end="1218.4s">- Wracasz do pracy jutro wieczorem, tak? <br /> - Tak.</p>
+      <p begin="1218.4s" id="p313" end="1221.9s">Wiêc jeœli chcesz ¿eby ludzie je zobaczyli,<br />nie zamierzasz siê ich pozbyæ...</p>
+      <p begin="1222.0s" id="p314" end="1223.5s">... nim nastanie œwit?</p>
+      <p begin="1224.3s" id="p315" end="1227.8s">Jeœli to zrobiê,<br />nie bêdê mog³a robiæ tego.</p>
+      <p begin="1234.3s" id="p316" end="1237.8s">Podoba ci siê, co?</p>
+      <p begin="1243.6s" id="p317" end="1245.3s">Co ty œpiewasz?</p>
+      <p begin="1245.3s" id="p318" end="1247.2s">To Bolero z <br /> /Dziesi¹tki.</p>
+      <p begin="1247.2s" id="p319" end="1250.7s">Raczej 'Jazda Walkirii' z<br />/Czasu Apokalipsy.</p>
+      <p begin="1251.7s" id="p320" end="1254.1s">Chodzi o to, ¿e ta fryzura<br /> by³a rozwi¹zaniem...</p>
+      <p begin="1254.1s" id="p321" end="1256.3s">...na twoje puszyste w³osy.<br />Teraz kiedy jesteœmy w domu,</p>
+      <p begin="1256.3s" id="p322" end="1258.6s">Ju¿ nie masz tego problemu.</p>
+      <p begin="1258.6s" id="p323" end="1261.6s">Jeœli siê nad tym g³êbiej zastanowiæ, to...<br />Ja ich nienawidzê!</p>
+      <p begin="1261.6s" id="p324" end="1263.8s">Jak to?<br />Mówi³eœ, ¿e ci siê podobaj¹.</p>
+      <p begin="1264.0s" id="p325" end="1265.0s">Czy¿by?</p>
+      <p begin="1265.1s" id="p326" end="1268.0s">Przypomnijmy sobie, <br />wydaje mi siê, ¿e powiedzia³em,</p>
+      <p begin="1268.0s" id="p327" end="1270.8s">¿e widzê twoj¹ czaszkê.</p>
+      <p begin="1270.8s" id="p328" end="1272.2s">Ok, nie podobaj¹ ci siê.</p>
+      <p begin="1272.2s" id="p329" end="1274.4s">Za to innym tak.</p>
+      <p begin="1274.4s" id="p330" end="1277.9s">Cofnijmy siê jeszcze raz.<br />Wydaje mi siê, ¿e Rachel mówi³a...</p>
+      <p begin="1278.8s" id="p331" end="1282.0s">...¿e nigdy nie zauwa¿a³a kszta³tu<br />twojej czaszki.</p>
+      <p begin="1282.0s" id="p332" end="1285.5s">A Joey...<br />Có¿, Joey nie zauwa¿y³ ¿adnej ró¿nicy.</p>
+      <p begin="1287.4s" id="p333" end="1289.7s">Mam to gdzieœ. <br />Mnie siê podobaj¹.</p>
+      <p begin="1289.7s" id="p334" end="1291.2s">I tak zostanie.</p>
+      <p begin="1291.2s" id="p335" end="1294.7s">A ty mi zazdroœcisz,<br /> bo swoimi nie mo¿esz zrobiæ tego.</p>
+      <p begin="1297.8s" id="p336" end="1301.3s">- Walnê³aœ siê w z¹b?<br />- I w oko!</p>
+      <p begin="1311.3s" id="p337" end="1313.1s">Jesteœ ju¿.</p>
+      <p begin="1313.1s" id="p338" end="1316.7s">Mój Bo¿e.<br />Tak siê za tob¹ stêskni³em.</p>
+      <p begin="1318.7s" id="p339" end="1321.5s">Dobrze siê bawi³aœ z babci¹?</p>
+      <p begin="1321.5s" id="p340" end="1325.0s">Znowu ci da³a tabletki antydepresyjne, <br />do zabawy zamiast grzechotki?</p>
+      <p begin="1327.0s" id="p341" end="1330.5s">To zdarzy³o siê tylko raz, Ross. <br />I by³o tam tylko 5 miligramów.</p>
+      <p begin="1332.9s" id="p342" end="1335.9s">Emma, tatuœ ma dla ciebie prezent.</p>
+      <p begin="1335.9s" id="p343" end="1339.4s">Poczekaj sobie tutaj.</p>
+      <p begin="1340.3s" id="p344" end="1343.8s">Ross, jest coœ o czym <br />musimy porozmawiaæ.</p>
+      <p begin="1344.6s" id="p345" end="1348.1s">Œmia³o.</p>
+      <p begin="1348.1s" id="p346" end="1351.6s">- Chodzi o to...<br />- O, NIE!</p>
+      <p begin="1353.3s" id="p347" end="1354.9s">Co siê sta³o?</p>
+      <p begin="1354.9s" id="p348" end="1358.4s">Kolosalna eksplozja szamponu!</p>
+      <p begin="1360.3s" id="p349" end="1363.8s">- Ross, naprawdê nie jest mi ³atwo..<br />- Zalane jest prawie wszystko!</p>
+      <p begin="1366.6s" id="p350" end="1369.7s">Czemu?<br />Czemu ja?!</p>
+      <p begin="1369.7s" id="p351" end="1373.2s">Bo zabra³eœ trzysta<br /> butelek szamponu?</p>
+      <p begin="1374.6s" id="p352" end="1378.1s">Przepraszam, <br /> coœ mówi³aœ.</p>
+      <p begin="1378.8s" id="p353" end="1380.4s">S³uchaj, chodzi o mnie i...</p>
+      <p begin="1380.4s" id="p354" end="1383.9s">Nie! Jeszcze jeden?!</p>
+      <p begin="1385.2s" id="p355" end="1388.7s">Chryste to balsam!<br />To siê trudniej czyœci!</p>
+      <p begin="1390.5s" id="p356" end="1394.0s">Czemu wszystkie z³e rzeczy <br />przytrafiaj¹ siê dobrym ludziom?</p>
+      <p begin="1396.5s" id="p357" end="1398.4s">NajwyraŸniej to nie jest najlepsza pora...</p>
+      <p begin="1398.4s" id="p358" end="1402.0s">Tak s¹dzisz?!</p>
+      <p begin="1404.1s" id="p359" end="1405.8s">Dobrze. Pa!</p>
+      <p begin="1405.8s" id="p360" end="1409.1s">Mike ju¿ jest w drodze.</p>
+      <p begin="1409.3s" id="p361" end="1412.4s">Ty myœla³aœ, ¿e spotykacie siê tutaj.<br />A on, ¿e w restauracji.</p>
+      <p begin="1412.5s" id="p362" end="1416.0s">Wiêc i tak nie ma znaczenia<br />kto mia³ racjê.</p>
+      <p begin="1416.0s" id="p363" end="1419.5s">Chodzi o to, ¿e...<br />spadam st¹d.</p>
+      <p begin="1420.1s" id="p364" end="1423.0s">Nie pozwolê ci wyjœæ dopóki nie <br />powiesz mi o co chodzi.</p>
+      <p begin="1423.1s" id="p365" end="1426.3s">Czy wy wróciliœcie do siebie?</p>
+      <p begin="1428.7s" id="p366" end="1432.0s">Dobra. Suzie...<br />Mogê do ciebie mówiæ Suzie?</p>
+      <p begin="1434.1s" id="p367" end="1436.7s">Na imiê mam Skarb.</p>
+      <p begin="1436.7s" id="p368" end="1440.2s">Tak nie mogê mówiæ.</p>
+      <p begin="1440.2s" id="p369" end="1443.7s">Suzie, powiem wprost.</p>
+      <p begin="1443.8s" id="p370" end="1446.7s">Mike i ja wróciliœmy do siebie.</p>
+      <p begin="1446.7s" id="p371" end="1450.2s">I niestety, to definitywnie<br />koñczy twój zwi¹zek z nim.</p>
+      <p begin="1452.2s" id="p372" end="1455.0s">I jest mu bardzo przykro z tego powodu.</p>
+      <p begin="1455.0s" id="p373" end="1458.5s">I ¿yczy ci wszystkiego najlepszego<br />we wszystkim co postanowisz.</p>
+      <p begin="1459.6s" id="p374" end="1461.7s">Nie mogê w to uwierzyæ.</p>
+      <p begin="1461.7s" id="p375" end="1464.4s">Dlaczego?</p>
+      <p begin="1464.4s" id="p376" end="1467.3s">Dlaczego mi to zrobi³?<br />Co jest ze mn¹ nie tak?</p>
+      <p begin="1467.3s" id="p377" end="1468.9s">Nic. Wszystko z tob¹ w porz¹dku.</p>
+      <p begin="1468.9s" id="p378" end="1470.8s">Co do cholery mam teraz zrobiæ?!</p>
+      <p begin="1470.8s" id="p379" end="1474.2s">Do jasnej cholery! Kobieto!<br />Opamiêtaj siê!</p>
+      <p begin="1474.2s" id="p380" end="1477.7s">Miej trochê dumy!<br />Na mi³oœæ bosk¹!</p>
+      <p begin="1481.9s" id="p381" end="1485.4s">OK, nie przepadasz za trudn¹ mi³oœci¹?</p>
+      <p begin="1485.5s" id="p382" end="1489.0s">Nie mogê w to uwierzyæ.<br />Mike nie da³ mi ¿adnego ostrze¿enia.</p>
+      <p begin="1489.3s" id="p383" end="1491.5s">On naprawde nie wiedzia³.</p>
+      <p begin="1491.5s" id="p384" end="1494.7s">Wcale nie planowa³ jechaæ na Barbados<br />¿eby siê oœwiadczyæ.</p>
+      <p begin="1494.7s" id="p385" end="1497.1s">Oœwiadczy³ ci siê?</p>
+      <p begin="1497.1s" id="p386" end="1500.6s">To najgorsze urodziny<br />w moim ¿yciu.</p>
+      <p begin="1503.8s" id="p387" end="1507.3s">S³uchaj... Skarbie.</p>
+      <p begin="1509.3s" id="p388" end="1512.8s">Mike nie jest tego wart. <br />Jesteœ atrakcyjna, inteligentn¹ kobiet¹.</p>
+      <p begin="1513.6s" id="p389" end="1517.1s">Spójrzmy prawdzie w oczy. <br />Mike to cienias.</p>
+      <p begin="1517.2s" id="p390" end="1520.1s">Oœwiadczy³ mi siê,<br />kiedy jeszcze by³ z tob¹.</p>
+      <p begin="1520.1s" id="p391" end="1523.6s">Planowa³ zerwanie w twoje urodziny?</p>
+      <p begin="1523.7s" id="p392" end="1527.7s">I nie chcê obgadywaæ, ale zdradza³ ciê<br />wiele razy w ten weekend.</p>
+      <p begin="1528.4s" id="p393" end="1531.6s">Mój Bo¿e. Chyba masz racjê.<br />Mo¿e go nie potrzebujê.</p>
+      <p begin="1531.6s" id="p394" end="1535.1s">Zas³ugujê na to, ¿eby mnie<br />traktowaæ z szacunkiem.</p>
+      <p begin="1535.1s" id="p395" end="1536.7s">Pieprz siê Mike!</p>
+      <p begin="1536.7s" id="p396" end="1540.7s">Jesteœ tchórzem, bydlakiem i mam nadziejê,<br />¿e bêdziesz siê sma¿y³ w piekle!</p>
+      <p begin="1545.9s" id="p397" end="1549.4s">Nie ma za co.</p>
+      <p begin="1553.8s" id="p398" end="1557.3s">Skarbie, d³ugo tak siedzisz. <br />Wszystko w porz¹dku?</p>
+      <p begin="1557.5s" id="p399" end="1560.1s">Niezupe³nie.</p>
+      <p begin="1561.7s" id="p400" end="1565.3s">Mam problem.</p>
+      <p begin="1565.3s" id="p401" end="1568.7s">Serio?<br />Co siê sta³o?</p>
+      <p begin="1568.7s" id="p402" end="1572.2s">Tañczy³am sobie i œpiewa³am<br /> /No Woman No Cry.</p>
+      <p begin="1575.1s" id="p403" end="1577.8s">No i utknê³am.</p>
+      <p begin="1577.8s" id="p404" end="1579.8s">Nie mo¿esz siê ruszyæ?</p>
+      <p begin="1579.8s" id="p405" end="1583.3s">Nie no... ruszaæ siê mogê.</p>
+      <p begin="1587.5s" id="p406" end="1590.5s">Jeœli ciê odczepiê, <br />to usuniesz te warkoczyki?</p>
+      <p begin="1590.5s" id="p407" end="1594.0s">Chyba tak...</p>
+      <p begin="1594.1s" id="p408" end="1598.9s">- Niektóre s¹ trochê poszarpane.<br />- Próbowa³am je odgryŸæ by siê uwolniæ.</p>
+      <p begin="1604.4s" id="p409" end="1606.8s">Powiedzia³aœ Ross'owi?</p>
+      <p begin="1606.8s" id="p410" end="1608.4s">Wiesz próbowa³am.</p>
+      <p begin="1608.4s" id="p411" end="1611.9s">Ale mia³ jakiœ problem<br />z szamponem.</p>
+      <p begin="1611.9s" id="p412" end="1613.5s">Wiêc chyba znów twoja kolej.</p>
+      <p begin="1613.5s" id="p413" end="1615.1s">Nie, nie, nie.</p>
+      <p begin="1615.1s" id="p414" end="1617.3s">Myœlê ¿e lepiej bêdzie,<br />jeœli ty mu powiesz.</p>
+      <p begin="1617.3s" id="p415" end="1619.4s">Kobiecie jest ³atwiej.</p>
+      <p begin="1619.4s" id="p416" end="1621.5s">Jeœli siê wœcieknie<br />wystarczy ¿e powiesz...</p>
+      <p begin="1621.5s" id="p417" end="1625.0s">/Ja tego nie chcia³am...</p>
+      <p begin="1625.3s" id="p418" end="1628.8s">/Tak mi przykro...</p>
+      <p begin="1631.1s" id="p419" end="1633.4s">Tak to w³aœnie robimy...</p>
+      <p begin="1635.1s" id="p420" end="1636.9s">A mo¿e tak...</p>
+      <p begin="1636.9s" id="p421" end="1640.4s">Jutro...<br />Jutro pójdziemy razem i mu powiemy.</p>
+      <p begin="1642.8s" id="p422" end="1644.8s">Ok. Tak bedzie sprawiedliwie.</p>
+      <p begin="1644.8s" id="p423" end="1648.3s">- Ale to oznacza, ¿e ciagle nie mo¿emy...<br />- Wiem, ale to nic...</p>
+      <p begin="1648.6s" id="p424" end="1652.2s">Umiemy siê kontrolowaæ.<br />Nie jesteœmy zwierzêtami.</p>
+      <p begin="1652.8s" id="p425" end="1656.3s">Jasne, ¿e mo¿emy poczekaæ.</p>
+      <p begin="1656.4s" id="p426" end="1659.6s">To w takim razie, <br />Dobranoc.</p>
+      <p begin="1659.6s" id="p427" end="1663.1s">Tak.<br />Dobranoc.</p>
+      <p begin="1668.0s" id="p428" end="1671.3s">Dobranoc.</p>
+      <p begin="1671.3s" id="p429" end="1674.8s">Dobranoc.</p>
+      <p begin="1679.8s" id="p430" end="1683.4s">Mówiê serio, dobranoc.<br />Przestañ powtarzaæ dobranoc!</p>
+      <p begin="1702.4s" id="p431" end="1705.9s">Tak mi przykro...</p>
+      <p begin="1712.0s" id="p432" end="1715.5s">Patrz co znalaz³am w szufladzie.</p>
+      <p begin="1716.4s" id="p433" end="1719.9s">Mówi³eœ ¿e nigdy tego nie za³o¿ê.</p>
+      <p begin="1720.6s" id="p434" end="1722.2s">Skoro ja ciê rozpl¹ta³em...</p>
+      <p begin="1722.2s" id="p435" end="1724.2s">To mo¿e ty zrobi³abyœ coœ dla mnie?</p>
+      <p begin="1724.2s" id="p436" end="1726.4s">Jasne.<br />Co masz na myœli?</p>
+      <p begin="1726.4s" id="p437" end="1728.1s">Myœlê, ¿e wiesz.</p>
+      <p begin="1728.1s" id="p438" end="1730.7s">Naprawde?<br />Chyba nie mam ochoty...</p>
+      <p begin="1730.7s" id="p439" end="1734.1s">Ale ja tego pragnê.</p>
+      <p begin="1736.1s" id="p440" end="1739.5s">Poprostu nie rozumiem czemu<br />tak bardzo to lubisz.</p>
+      <p begin="1739.5s" id="p441" end="1742.7s">Ona jest agentk¹ FBI<br />uczestnicz¹c¹ w konkursie piêknoœci!</p>
+      <p begin="1742.7s" id="p442" end="1750.9s">t³umaczenie: króliczku<br />ogólne poprawki:07.09.04<br />kroliczku@kinomania.org<br /><<KinoMania SubGroup>><br />http://subgroup.kinomania.org</p>
+      <p begin="1750.9s" id="p443" end="1755.0s">>> Napisy pobrane z http://napisy.org <<<br />>>>>>>>> nowa wizja napisów <<<<<<<<</p>
+      <p begin="0.5s" id="p444" end="2.0s"><font color="#ffff00" size=14>www.tvsubtitles.net</font></p>
+    </div>
+  </body>
+</tt>
