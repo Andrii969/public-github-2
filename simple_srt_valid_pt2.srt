@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,500
+[PT2] Para www.forom.com
+
+2
+00:00:01,500 --> 00:00:02,500
+<i>[PT2] Esta noite é a noite.</i>
+
+3
+00:00:03,000 --> 00:00:15,000
+<i>[PT2] E isso vai acontecer
+[PT2] de novo e de novo --</i>
